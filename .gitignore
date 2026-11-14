@@ -1,0 +1,4 @@
+out/
+opencode.json
+*.pyc
+.DS_Store
